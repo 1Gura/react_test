@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+@import './loader.scss';
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+ul {
+  list-style: none;
+}
+
+
+.container {
+  width: 500px;
+  margin: 0 auto;
+
+}
+.item {
+  font-size: 18px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 15px;
+  border: 1px solid black;
+  margin: 5px;
+
+  .btn-delete {
+    background-color: red;
+    color: #ffffff;
+    border: none;
+    border-radius: 50%;
+  }
+
+  .element-task {
+    width: 250px;
+  }
+}
+
+.done {
+  text-decoration: line-through;
+}
+
+.form {
+  margin-bottom: 1rem;
+  
+}
+
+.loader-container {
+  display:flex;
+  justify-content : center;
+  margin: .5rem
+}
+
