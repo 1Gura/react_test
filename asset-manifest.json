@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SugarBoy228/react-diplom.git/static/css/main.bb130aed.chunk.css",
+    "main.js": "/SugarBoy228/react-diplom.git/static/js/main.1cc48372.chunk.js",
+    "main.js.map": "/SugarBoy228/react-diplom.git/static/js/main.1cc48372.chunk.js.map",
+    "runtime-main.js": "/SugarBoy228/react-diplom.git/static/js/runtime-main.1418c618.js",
+    "runtime-main.js.map": "/SugarBoy228/react-diplom.git/static/js/runtime-main.1418c618.js.map",
+    "static/js/2.0d54fabb.chunk.js": "/SugarBoy228/react-diplom.git/static/js/2.0d54fabb.chunk.js",
+    "static/js/2.0d54fabb.chunk.js.map": "/SugarBoy228/react-diplom.git/static/js/2.0d54fabb.chunk.js.map",
+    "static/js/3.db43a54f.chunk.js": "/SugarBoy228/react-diplom.git/static/js/3.db43a54f.chunk.js",
+    "static/js/3.db43a54f.chunk.js.map": "/SugarBoy228/react-diplom.git/static/js/3.db43a54f.chunk.js.map",
+    "index.html": "/SugarBoy228/react-diplom.git/index.html",
+    "static/css/main.bb130aed.chunk.css.map": "/SugarBoy228/react-diplom.git/static/css/main.bb130aed.chunk.css.map",
+    "static/js/2.0d54fabb.chunk.js.LICENSE.txt": "/SugarBoy228/react-diplom.git/static/js/2.0d54fabb.chunk.js.LICENSE.txt",
+    "static/media/logo.73c8ca7e.png": "/SugarBoy228/react-diplom.git/static/media/logo.73c8ca7e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1418c618.js",
+    "static/js/2.0d54fabb.chunk.js",
+    "static/css/main.bb130aed.chunk.css",
+    "static/js/main.1cc48372.chunk.js"
+  ]
+}
